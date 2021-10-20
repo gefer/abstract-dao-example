@@ -1,0 +1,4 @@
+br/com/abstractdata/exceptions/PersistenceUnitNotConfiguredException.java
+ br.com.abstractdata.exceptions.PersistenceUnitNotConfiguredException
+br/com/abstractdata/util/JPAUtil.java
+ br.com.abstractdata.util.JPAUtil
